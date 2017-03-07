@@ -1,4 +1,4 @@
 # arduino
 
-These files are intended to simplify the modular construction using different hardware of a guided or autonomous vehicle
+These files are intended to simplify interfacing specific hardware, such as a Wilesco steamroller modified for servo control, with an arduino.
 
