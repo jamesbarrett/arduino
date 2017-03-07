@@ -1,5 +1,6 @@
 
 #include "SteamRoller.h"
+#include "../Servo/Servo.cpp"
 
 #define sweepStep 5
 #define wait 5000
