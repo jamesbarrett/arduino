@@ -2,7 +2,7 @@
 #ifndef SteamRoller_h
 #define SteamRoller_h
 #include "Arduino.h"
-#include "Servo.h"
+#include "../Servo/Servo.h"
 
 class SteamRoller
 {
